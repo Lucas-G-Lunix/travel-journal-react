@@ -1,3 +1,5 @@
+# Proyect with React of the course "React Course - Beginner's Tutorial for React JavaScript Library [2022]" from FreeCodeCamp 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
